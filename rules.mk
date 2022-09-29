@@ -1,0 +1,4 @@
+RGBLIGHT_ENABLE    = no
+RGB_MATRIX_ENABLE  = no
+VIA_ENABLE         = yes
+LTO_ENABLE = yes
